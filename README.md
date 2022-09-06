@@ -3,7 +3,6 @@
 <p><em>Brazilian Software Engineer since 2012. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 <p><em>Founder of Wesoft Technology.</em></p>
 <p><em>Interests: Software Development, Machine Learning, Data Science.</em></p>
-<p><em>I'm living in São Paulo.</em></p>
 
 [![website](https://img.shields.io/website?label=AirtonLima.dev&style=for-the-badge&url=http://airtonlima.dev.br/)](http://airtonlima.dev.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseairtonjr/)

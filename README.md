@@ -5,9 +5,9 @@
 <p><em>Interests: Software Development, Machine Learning, Data Science.</em></p>
 
 [![website](https://img.shields.io/website?label=AirtonLima.dev&style=for-the-badge&url=http://airtonlima.dev.br/)](http://airtonlima.dev.br/)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&label=DevSagaz.com.br&logo=blogger&logoColor=white)](https://devsagaz.com.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseairtonjr/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airtonlima.jr/)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&label=DevSagaz.com.br&logo=blogger&logoColor=white)](https://devsagaz.com.br/)
 
 <div>
     <a href="https://github.com/airtonlima" />

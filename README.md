@@ -7,7 +7,7 @@
 <p align="justify">I enjoy tackling challenges and stepping out of my comfort zone, just like any dedicated developer.</p>
 <p align="justify">I believe that this is the only way to keep myself in a constant state of learning.</p>
 <br>
-<p><b>Interests: Software Development, Machine Learning, Data Science.</b></p>
+<p><b>Interests: Software Development, Machine Learning and Data Science.</b></p>
 <br>
 
 [![website](https://img.shields.io/website?label=AirtonLima.dev&style=for-the-badge&url=https://airtonlima.dev.br/)](https://airtonlima.dev.br/)

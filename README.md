@@ -2,13 +2,10 @@
 <!-- 
 <p><em>Brazilian Software Engineer since 2011. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 -->
-<p align="justify"><em>Hello, my name is José Airton Lima, and I have been a professional software developer since 2013. I am Brazilian, born in São Paulo,
-    <br>
-    and I have been passionate about technology since childhood.</em></p>
-<p align="justify"><em>I hold a Bachelor's degree in Information Systems from Faculdade de Informática e Administração Paulista - FIAP.</em></p>
-<p align="justify"><em>I enjoy tackling challenges and stepping out of my comfort zone, just like any dedicated developer.
-    <br>
-    I believe that this is the only way to keep myself in a constant state of learning.</em></p>
+<p align="justify">Hello, my name is José Airton Lima, and I have been a professional software developer since 2013. I am Brazilian, born in São Paulo, and I have been passionate about technology since childhood.</p>
+<p align="justify">I hold a Bachelor's degree in Information Systems from Faculdade de Informática e Administração Paulista - FIAP.</p>
+<p align="justify">I enjoy tackling challenges and stepping out of my comfort zone, just like any dedicated developer.</p>
+<p align="justify">I believe that this is the only way to keep myself in a constant state of learning.</p>
 
 <p><em>Interests: Software Development, Machine Learning, Data Science.</em></p>
 

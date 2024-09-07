@@ -6,8 +6,8 @@
 <p align="justify">I hold a Bachelor's degree in Information Systems from Faculdade de Informática e Administração Paulista - FIAP.</p>
 <p align="justify">I enjoy tackling challenges and stepping out of my comfort zone, just like any dedicated developer.</p>
 <p align="justify">I believe that this is the only way to keep myself in a constant state of learning.</p>
-
-<p><em>Interests: Software Development, Machine Learning, Data Science.</em></p>
+<br>
+<p><b>Interests: Software Development, Machine Learning, Data Science.</b></p>
 
 [![website](https://img.shields.io/website?label=AirtonLima.dev&style=for-the-badge&url=https://airtonlima.dev.br/)](https://airtonlima.dev.br/)
 [![website](https://img.shields.io/website?label=DevSagaz&style=for-the-badge&logo=blogger&logoColor=white&url=https://devsagaz.com.br/)](https://devsagaz.com.br/)

@@ -1,7 +1,6 @@
 ## Hello, I'm José Airton Lima ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <p><em>Brazilian Software Engineer since 2011. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
-<p><em>Founder of Wesoft Technology.</em></p>
 <p><em>Interests: Software Development, Machine Learning, Data Science.</em></p>
 
 [![website](https://img.shields.io/website?label=AirtonLima.dev&style=for-the-badge&url=https://airtonlima.dev.br/)](https://airtonlima.dev.br/)

@@ -8,7 +8,7 @@
 <p align="justify">I believe that this is the only way to keep myself in a constant state of learning.</p>
 <br>
 <p><b>Interests: Software Development, Machine Learning, Data Science.</b></p>
-
+<br>
 [![website](https://img.shields.io/website?label=AirtonLima.dev&style=for-the-badge&url=https://airtonlima.dev.br/)](https://airtonlima.dev.br/)
 [![website](https://img.shields.io/website?label=DevSagaz&style=for-the-badge&logo=blogger&logoColor=white&url=https://devsagaz.com.br/)](https://devsagaz.com.br/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseairtonjr/)

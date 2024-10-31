@@ -15,6 +15,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseairtonjr/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airtonlima.dev/)
 
+[![](https://visitcount.itsvg.in/api?id=airtonlima&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 <div>
     <a href="https://github.com/airtonlima" />
     <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api?username=airtonlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -37,7 +39,3 @@
 
 <a href="https://www.buymeacoffee.com/airton.lima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"></a>
 <!-- <p>If you like what I do, maybe consider buying me a coffee/tea. 🥺👉👈</p> -->
-
-
-[![](https://visitcount.itsvg.in/api?id=airtonlima&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
-
